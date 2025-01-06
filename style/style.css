@@ -4,6 +4,7 @@
     margin: 20px;
     padding: 10px;
     text-align: justify;
-    box-shadow: 10px 10px 30px rgb(175, 13, 13);
+    box-shadow: 10px 10px 30px rgb(3, 88, 88);
+    border-radius: 20px;
 
 }
